@@ -19,4 +19,3 @@ print("|%5d %5d|" % (num3, num4))
 # TODO
 print("|%-5d %-5d|" % (num1, num2))
 print("|%-5d %-5d|" % (num3, num4))
-
